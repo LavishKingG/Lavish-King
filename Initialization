@@ -1,1 +1,3 @@
+$ git branch alternate_reality 
 
+$ git checkout alternate_reality
